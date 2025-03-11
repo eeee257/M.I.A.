@@ -37,6 +37,7 @@ header h2{
     text-align: center;
     border: 0;
     font-size: 1.5em;
+    color: white;
 }
 .navitem:hover{
     background-color: black;
